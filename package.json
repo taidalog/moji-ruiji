@@ -1,0 +1,25 @@
+{
+  "name": "moji-ruiji",
+  "version": "1.0.0",
+  "description": "An web application to evaluate similarity between two strings using Jaro Similarity. Powered by Streamlit, F#, Fable and Python.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taidalog/moji-ruiji.git"
+  },
+  "keywords": [],
+  "author": "taidalog",
+  "license": "MIT",
+  "type": "commonjs",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/taidalog/moji-ruiji/issues"
+  },
+  "homepage": "https://github.com/taidalog/moji-ruiji#readme"
+}
